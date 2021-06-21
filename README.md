@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🧑‍💻, I'm Ritik Agrawal</h1>
+<h1 align="center">Hi <img width="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">🧑‍💻, I'm Ritik Agrawal</h1>
 <h3 align="center">Web Developer | Bug Hunter | Penetration Tester | Cybersecurity Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikag2710&label=Profile%20views&color=0e75b6&style=flat" alt="ritikag2710" /> </p>
