@@ -11,7 +11,8 @@
 
 - 💬 Ask me about **Frontend as well as Backend Development**
 
-- 📫 How to reach me **ritikagrawal2710@gmail.com**
+- 📫 How to reach me  <strong><a href="mailto:ritikagrawal2710@gmail.com">E-mail</a></strong>  ,  <strong><a href="https://ritikag2710.github.io/portfolio/" rel="nofollow">My Website</a></strong>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
