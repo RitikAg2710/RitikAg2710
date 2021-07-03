@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer | Bug Hunter | Penetration Tester | Cybersecurity Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikag2710&label=Profile%20views&color=0e75b6&style=flat" alt="ritikag2710" /> </p>
-<img align="right" alt="coding" width="400" src="https://campaignjr.com/v1/wp-content/uploads/2016/12/04_funny-and-inspiring-graphic-design-related-gifs.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif">
 
 
 <p align="left"> <a href="https://twitter.com/_ritiikkk" target="blank"><img src="https://img.shields.io/twitter/follow/_ritiikkk?logo=twitter&style=for-the-badge" alt="_ritiikkk" /></a> </p>
