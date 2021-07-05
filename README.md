@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/_ritiikkk" target="blank"><img src="https://img.shields.io/twitter/follow/_ritiikkk?logo=twitter&style=for-the-badge" alt="_ritiikkk" /></a> </p>
 
-- 🔭 I’m currently working on **Baackend Development in node.js**
+- 👨‍💻 Co-Founder at [CONCEPT](https://learnatconcept.com/)
+
+- 🔭 I’m currently working on **Backend Development in node.js**
 
 - 🌱 I’m currently learning **Mern Stack and Cybersecurity**
 
