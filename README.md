@@ -22,6 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/_ritiikkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ritiikkk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ritik-agrawal-467766187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritik-agrawal-467766187" height="30" width="40" /></a>
+<a href="mailto:ritikagrawal2710@gmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/e5ceae95fee4fbb3690783d8631805e2484485937a8f526960c745e984fafa7a/68747470733a2f2f73736c2e677374617469632e636f6d2f75692f76312f69636f6e732f6d61696c2f7266722f676d61696c2e69636f" alt="ritikagrawal2710@gmail.com" height="30" width="40"/></a>       
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
