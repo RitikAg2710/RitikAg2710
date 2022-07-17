@@ -9,7 +9,7 @@
 
 - 👨‍💻 Co-Founder at [CONCEPT](https://learnatconcept.com/)
 
-- 🔭 I’m currently working as **SDE-1 Trainee at Odyssey Technologies Limited**
+- 🔭 I’m currently working as **SDE-1(Trainee) at Odyssey Technologies Limited**
 
 - 🌱 I’m currently learning advance topics about **Full Stack and Cybersecurity**
 
