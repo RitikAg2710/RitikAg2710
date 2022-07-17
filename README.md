@@ -9,9 +9,9 @@
 
 - 👨‍💻 Co-Founder at [CONCEPT](https://learnatconcept.com/)
 
-- 🔭 I’m currently working on **Backend Development in node.js**
+- 🔭 I’m currently working as **SDE-1 Trainee at Odyssey Technologies Limited**
 
-- 🌱 I’m currently learning **Mern Stack and Cybersecurity**
+- 🌱 I’m currently learning advance topics about **Full Stack and Cybersecurity**
 
 - 💬 Ask me about **Frontend as well as Backend Development**
 
