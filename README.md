@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Ritik Agrawal</h1>
-<h3 align="center">DevOps Engineer | Cloud Engineer | Automation Specialist</h3>
+<h3 align="center">DevOps Engineer | Production | Automation Specialist</h3>
 
 ---
 
